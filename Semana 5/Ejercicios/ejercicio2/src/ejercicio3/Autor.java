@@ -18,7 +18,7 @@ public class Autor {
         this.nombre = nombre;
     }
     
-    public String nacionalidad(){
+    public String getNacionalidad(){
         return nacionalidad;
     } 
     
