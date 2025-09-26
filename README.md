@@ -8,6 +8,8 @@ Repositorio que contiene los ejercicios realizados en el lenguaje **Java** corre
 ## 📚 Contenido
 - ✏️ Semana 1: Ejercicios sobre **tipos de datos, operadores aritméticos, expresiones e instrucciones, pruebas de escritorio**, etc.
 - ✏️ Semana 2 y 3: Ejercicios sobre **condicionales, ciclos, arrays y recursividad**.
+- ✏️ Semana 4: Ejercicios sobre **Introduccion a POO.**.
+- ✏️ Semana 5: Ejercicios sobre **Programación Orientada a Objetos.**.
 
 ## ⚙️ Uso
 1. Clonar el repositorio:  
