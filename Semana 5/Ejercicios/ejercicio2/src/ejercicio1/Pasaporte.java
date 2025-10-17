@@ -45,7 +45,13 @@ public class Pasaporte {
         public Foto getFoto() {
             return foto;
         } 
+
+    @Override
+    public String toString() {
+        return "Pasaporte{" + "numero=" + numero + ", fechaEmision=" + fechaEmision + ", titular=" + titular + ", foto=" + foto + '}';
+    }
          
+        
 }
     
     

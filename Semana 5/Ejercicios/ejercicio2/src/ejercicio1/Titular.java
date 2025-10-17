@@ -30,7 +30,12 @@ public class Titular {
     public Pasaporte getPasaporte(){
         return pasaporte;
     }
-   
 
+    @Override
+    public String toString() {
+        return "Titular{" + "nombre=" + nombre + ", dni=" + dni + ", pasaporte=" + pasaporte + '}';
+    }
+   
+    
 }
 

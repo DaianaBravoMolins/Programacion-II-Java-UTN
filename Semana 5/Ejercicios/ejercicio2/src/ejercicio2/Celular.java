@@ -14,7 +14,7 @@ public class Celular {
         this.marca = marca;
         this.modelo = modelo;
         this.bateria = bateria;
-        this.usuario = usuario;
+        setUsuario(usuario);
     }
 
     public void mostrarBateria(){

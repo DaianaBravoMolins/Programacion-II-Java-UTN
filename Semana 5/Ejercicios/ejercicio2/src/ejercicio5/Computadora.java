@@ -1,6 +1,4 @@
-
 package ejercicio5;
-
 
 public class Computadora {
     private String marca;
@@ -38,7 +36,7 @@ public class Computadora {
     }
 
   @Override
-public String toString() {
+    public String toString() {
     return "Computadora{" +
            "marca=" + marca +
            ", numeroSerie=" + numeroSerie +

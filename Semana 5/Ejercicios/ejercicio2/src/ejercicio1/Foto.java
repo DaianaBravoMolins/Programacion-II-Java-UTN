@@ -15,9 +15,13 @@ public class Foto {
         return imagen;
     }
     
-    
+   
     public String getFormato(){
         return formato;
     }
-    
+
+    @Override
+    public String toString() {
+        return "Foto{" + "imagen=" + imagen + ", formato=" + formato + '}';
+    }
 }
