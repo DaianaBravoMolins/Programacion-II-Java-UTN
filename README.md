@@ -11,7 +11,8 @@ Repositorio que contiene los ejercicios realizados en el lenguaje **Java** corre
 - ✏️ Semana 4: Ejercicios sobre **Introduccion a POO.**.
 - ✏️ Semana 5: Ejercicios sobre **Programación Orientada a Objetos.**.
 - ✏️ Semana 6: Ejercicios: UML, relaciones entre clases (asociación, composición, bidireccionalidad) y manejo de colecciones dinámicas en POO.
-- ✏️ Semana 6: Herencia y Poliformismo.
+- ✏️ Semana 7: Herencia y Poliformismo.
+- ✏️ Semana 8: Interfaces y Excepciones.
 
 ## ⚙️ Uso
 1. Clonar el repositorio:  
